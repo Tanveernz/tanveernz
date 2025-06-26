@@ -47,14 +47,6 @@
 
 ---
 
-
-## 📈 GitHub Stats
-
-![Tanveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanveernawaz&show_icons=true&theme=tokyonight)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=tanveernawaz&theme=tokyonight)](https://git.io/streak-stats)
-
----
-
 ## 🧩 Fun Fact
 
 > I treat every day like a new sprint — build, break, learn, repeat 💡🔥
