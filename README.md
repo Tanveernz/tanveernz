@@ -38,7 +38,3 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code)
 
-
-## 🧩 Fun Fact
-
-> I treat every day like a new sprint — build, break, learn, repeat 💡🔥
