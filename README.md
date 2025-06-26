@@ -11,7 +11,7 @@
 - 🛠️ Building hands-on projects to sharpen my dev & ops skills
 - 💡 I believe in "Learn by Doing" — I create something new **every day**
 - 🎯 Goal: Become a well-rounded **Full Stack + DevOps Engineer**
-- 📫 Reach me at: your-email@example.com
+- 📫 Reach me at: tanveernawaz222@gmail.com
 
 ---
 
