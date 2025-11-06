@@ -1,40 +1,33 @@
-# 👋 Hi, I'm Tanveer Nawaz
+👋 Hi, I'm Tanveer Nawaz
 
-🚀 I'm a passionate **Full Stack Developer** on a journey of **never-ending learning**.  
-🔧 Exploring the world of **DevOps**, building projects daily, and experimenting with new technologies.
+🚀 I'm a passionate DevOps Engineer who loves automation, scalability, and continuous improvement.
+💻 With a background in Full Stack Development, I bridge the gap between code and infrastructure — ensuring smooth, reliable deployments.
 
----
+🧠 About Me
 
-## 🧠 About Me
+🌱 Currently learning and building with Docker, Kubernetes, CI/CD, and Cloud Platforms (AWS/Azure)
 
-- 🌱 Currently learning **MERN stack**, **Docker**, **CI/CD**, and **Cloud tools**
-- 🛠️ Building hands-on projects to sharpen my dev & ops skills
-- 💡 I believe in "Learn by Doing" — I create something new **every day**
-- 🎯 Goal: Become a well-rounded **Full Stack + DevOps Engineer**
-- 📫 Reach me at: tanveernawaz222@gmail.com
+🛠️ Hands-on with infrastructure as code (Terraform, Ansible) and monitoring tools (Prometheus, Grafana)
 
----
+💡 Strong believer in “Automate Everything” and “Learn by Doing”
 
----
+🎯 Goal: Become a Full Stack + DevOps Engineer skilled in both development and deployment
 
-## ⚒️ Tech Stack
+📫 Reach me at: tanveernawaz@outlook.com
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-black?logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![UI/UX](https://img.shields.io/badge/-UI/UX-FF69B4?style=flat-square)
-![Express](https://img.shields.io/badge/-Express.js-gray?logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Prisma ORM](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
+⚒️ Tech Stack
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?logo=github-actions)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code)
-
