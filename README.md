@@ -6,13 +6,9 @@
 🧠 About Me
 
 🌱 Currently learning and building with Docker, Kubernetes, CI/CD, and Cloud Platforms (AWS/Azure)
-
 🛠️ Hands-on with infrastructure as code (Terraform, Ansible) and monitoring tools (Prometheus, Grafana)
-
 💡 Strong believer in “Automate Everything” and “Learn by Doing”
-
-🎯 Goal: Become a Full Stack + DevOps Engineer skilled in both development and deployment
-
+🎯 Goal:DevOps Engineer skilled in both development and deployment
 📫 Reach me at: tanveernawaz@outlook.com
 
 ⚒️ Tech Stack
