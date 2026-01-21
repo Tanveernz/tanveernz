@@ -1,15 +1,15 @@
-👋 Hi, I'm Tanveer Nawaz
+Tanveer Nawaz
 
-🚀 I'm a passionate DevOps Engineer who loves automation, scalability, and continuous improvement.
-💻 With a background in Full Stack Development, I bridge the gap between code and infrastructure  ensuring smooth, reliable deployments.
+I'm a passionate DevOps Engineer who loves automation, scalability, and continuous improvement.
+With a background in Full Stack Development, I bridge the gap between code and infrastructure  ensuring smooth, reliable deployments.
 
-🧠 About Me
+About Me
 
-🌱 Currently learning and building with Docker, Kubernetes, CI/CD, and Cloud Platforms (AWS/Azure)
-🛠️ Hands-on with infrastructure as code (Terraform, Ansible) and monitoring tools (Prometheus, Grafana)
-💡 Strong believer in “Automate Everything” and “Learn by Doing”
-🎯 DevOps Engineer skilled in both development and deployment
-📫 Reach me at: tanveernawaz@outlook.com
+ Currently learning and building with Docker, Kubernetes, CI/CD, and Cloud Platforms (AWS/Azure/GCP)
+ Hands-on with infrastructure as code (Terraform, Ansible) and monitoring tools (Prometheus, Grafana)
+ Strong believer in “Automate Everything” and “Learn by Doing”
+ DevOps Engineer skilled in both development and deployment
+ Reach me at: tanveernawaz@outlook.com
 
 ⚒️ Tech Stack
 
