@@ -5,7 +5,7 @@ With a background in Full Stack Development, I bridge the gap between code and i
 
 About Me
 
- Currently learning and building with Docker, Kubernetes, CI/CD, and Cloud Platforms (AWS/Azure/GCP)
+ building with Docker, Kubernetes, CI/CD, and Cloud Platforms (AWS/Azure/GCP)
  Hands-on with infrastructure as code (Terraform, Ansible) and monitoring tools (Prometheus, Grafana)
  Strong believer in “Automate Everything” and “Learn by Doing”
  DevOps Engineer skilled in both development and deployment
