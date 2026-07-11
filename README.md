@@ -1,17 +1,62 @@
-Tanveer Nawaz
+<div align="center">
 
-I'm a passionate DevOps Engineer who loves automation, scalability, and continuous improvement.
-With a background in Full Stack Development, I bridge the gap between code and infrastructure  ensuring smooth, reliable deployments.
+```
+    ... .....::::.:::::::-:::--------:::------------:::::::::.........
+...........::::::::::::------------------=---====------::::::::::.....         tanveer@devops
+.........:::::::::-----------====================-------:::::::::::::.         ------------------------------------
+..:......:::::::----------.:::::...::::---==+=========--------::::::::         OS: ................ Linux (Ubuntu)
+:::.....::::--:-----===.. ..:  .: .--::  :--=+*+++====------------::::         Uptime: ............ Always Deploying
+:::::::::::--:------==.   .     :..::.:::::..-=+++++======---------:::         Role: ............... DevOps Engineer
+::::::::::--------=-==:.          ......::.    .-+++=========--------:         Background: ......... Full Stack Dev
+:::::::----------====+=:  ..:-===:      ..      .-++++=+=======-------         ------------------------------------
+::::------==========+++..:-=*#%%%#*=:.......     :++++++==========----         Languages.Programming: Python, JS/TS, Bash
+ ..::---===+=+++++=++**+:-*##%%%%%%%#=-:.::..    -**++++=+========---=         Languages.Config: ..... YAML, HCL, JSON
+   ..::-=====+++++++**+-:=+*####%%%%%#+--:..... .+****+++++========-==         ------------------------------------
+     ..:-=+++++++*+*+:. .:-....:=*#%%%#+=-::-:..-****++*+++===========         Tools.Containers: ..... Docker, Kubernetes
+       ..:-==++++***- .  :=:   .=+***###+*#***:-****+++*+++===========         Tools.IaC: ............ Terraform, Ansible
+        ...:-=+++***+.   *#=.   +%%%%%%%#%#=+#=+**+++++++=============         Tools.Monitoring: ..... Prometheus, Grafana
+          ...:-=+*****-.+@%#==-=#%%%%%%%%%##*++**+++++++==============         Tools.CI/CD: .......... Jenkins, GH Actions
+            ..--==+++*+:-==#**%%%%%%%%%%%**#==***++++=================         Cloud: ................ AWS, Azure, GCP
+              .:--=+++*. ..-=*#%%%%%%%%%%=*+=+++++++++=========+======         ------------------------------------
+         ...    .:-=++*-..:==:-#%%%%%%#*##%+++++++++++++++==========-=         Philosophy: "Automate Everything"
+          ...   ....-=++:.=*%%####*+==+*%%#*+*+++++++++==+++========-=                     "Learn by Doing"
+           .....  . .:=+..-=+=-::..:=*#%%##%-.==++++++====+++====---==         ------------------------------------
+             ..   .  .:-:   .:...:-+##%%##%%=  :--=+======++====----==         Contact.Email: .... tanveer0dev@gmail.com
+              .             :+=+++++*##%%%%%-.. ...::--=======--===--=         Contact.GitHub: ... github.com/Tanveernz
+            .                -+#%%*=+-+%@%%#::...........::----------=
+                             :+*#-  ::.-*%@*.::::.....       ..::---==
+                            .:+**=: .-#*+*#=.::--:.............. .:-==
+             ......  . ...   .+%%#= .:*@%##=.:::--::. .............:--
+.        . . ..:.........    .=%%#:.. :#%%%=.::::::-:.......:::... :--
+          . ..............   .:#%*..:..=%%#-.::::--:...:::::::......:-
+          .. .....:....:..   ..*%+ ..:.:%%*:.::::::.....:::::. .... .-
+           .    ..........    .-%+ ..::.*#+...::::.......:.... ... . :
+.       ..       ...... ...   ..*+   .:.=#= ...::.............   .....
+         ..        ..... ...   .=*.  ...-*- ............. ...  .......
+```
 
-About Me
+</div>
 
- building with Docker, Kubernetes, CI/CD, and Cloud Platforms (AWS/Azure/GCP)
- Hands-on with infrastructure as code (Terraform, Ansible) and monitoring tools (Prometheus, Grafana)
- Strong believer in “Automate Everything” and “Learn by Doing”
- DevOps Engineer skilled in both development and deployment
- Reach me at: tanveernawaz@outlook.com
+<h1 align="center">Hi, I'm Tanveer Nawaz 👋</h1>
 
-⚒️ Tech Stack
+<p align="center">
+Passionate <b>DevOps Engineer</b> who loves automation, scalability, and continuous improvement.<br/>
+With a background in Full Stack Development, I bridge the gap between code and infrastructure — ensuring smooth, reliable deployments.
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🔧 Building with **Docker, Kubernetes, CI/CD**, and Cloud Platforms (**AWS / Azure / GCP**)
+- 🏗️ Hands-on with infrastructure as code (**Terraform, Ansible**) and monitoring tools (**Prometheus, Grafana**)
+- 💡 Strong believer in **"Automate Everything"** and **"Learn by Doing"**
+- 🧑‍💻 Skilled in both development and deployment
+- 📫 Reach me at: **tanveer0dev@gmail.com**
+
+---
+
+### ⚒️ Tech Stack
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
@@ -27,3 +72,12 @@ About Me
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code)
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanveernz&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanveernz&layout=compact&theme=dark&hide_border=true)
+
+</div>
